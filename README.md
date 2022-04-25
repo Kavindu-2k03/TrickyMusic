@@ -52,3 +52,6 @@ OMFO Gimme a star and follow me
 - Click Here 👇🏻 And join pls 
   
   [![Herox](https://telegra.ph/file/39e17ab3a96207d3e15ac.jpg)](https://t.me/aboutez)
+  
+  ## Deploy
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FKavindu-2k03%2FTrickyMusic)
