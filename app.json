@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/SJMxADITI/TryMusic",
+    "repository": "https://github.com/Kavindu-2k03/TrickyMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
